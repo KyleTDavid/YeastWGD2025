@@ -2,4 +2,4 @@
 
 #### Script to replicate unpublished yeast WGD manuscript
 
-- `PrimaryAnalyses.r` contains all major analyses in markdown format, best viewed in a code notebook
+- `PrimaryAnalyses.r` contains all major analyses, best viewed in an IDE
